@@ -1,1 +1,4 @@
 # IoT-Based-Contactless-Body-Temperature-Monitoring-using-Raspberry-Pi-with-Camera-and-Email-Alert
+
+There are many temperature guns available in the market, but none of them gives any alert or email notification to higher authorities to take appropriate actions when the temperature exceeds a particular limit. In this project, we will interface an IR temperature sensor and send the email alerts with the image of the person if the temperature of any particular person exceeds the set value.
+In today’s world, the Internet of Things is revolutionizing our life by developing a number of systems which can be monitored and controlled remotely. In this project, we will leverage the power of IoT and we will build a Temperature Monitoring device with Email alerts using Raspberry Pi, MLX90614, and PiCamera.
